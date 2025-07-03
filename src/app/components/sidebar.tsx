@@ -35,7 +35,7 @@ export default function Sidebar({}: SidebarProps) {
           <Image
             width={18}
             height={18}
-            src="/icons/arrow-left-on-rectangle.svg"
+            src="/icons/arrow-left-on-rectangel.svg"
             alt="exit icon"
           />
           <span className="font-medium text-white">Exit</span>
